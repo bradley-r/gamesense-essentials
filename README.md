@@ -11,8 +11,10 @@ This programs adds the following to your SteelSeries OLED screen:
 
 ## Demo
 Video: https://streamable.com/7wnmt  
+OLED Keyboards:
 <img src="https://raw.githubusercontent.com/mtricht/gamesense-essentials/master/photos/clock.png" width="450" />  
 <img src="https://raw.githubusercontent.com/mtricht/gamesense-essentials/master/photos/volume.png" width="450" />
+OLED Wireless Headset Transmitters:
 <img src="https://github.com/bradley-r/gamesense-essentials/blob/master/photos/SpotifyMetadataDemo.jpg" width="450" />
 <img src="https://github.com/bradley-r/gamesense-essentials/blob/master/photos/TimeDemo.jpg" width="450" />
 
