@@ -13,6 +13,8 @@ This programs adds the following to your SteelSeries OLED screen:
 Video: https://streamable.com/7wnmt  
 <img src="https://raw.githubusercontent.com/mtricht/gamesense-essentials/master/photos/clock.png" width="450" />  
 <img src="https://raw.githubusercontent.com/mtricht/gamesense-essentials/master/photos/volume.png" width="450" />
+<img src="https://github.com/bradley-r/gamesense-essentials/blob/master/photos/SpotifyMetadataDemo.jpg" width="450" />
+<img src="https://github.com/bradley-r/gamesense-essentials/blob/master/photos/TimeDemo.jpg" width="450" />
 
 ## Startup
 To run after boot, create a shortcut to gamesense-essentials inside the "Startup" folder. Follow this [tutorial](https://www.howtogeek.com/208224/how-to-add-programs-files-and-folders-to-system-startup-in-windows-8.1/) if you're having trouble. Only works with version 1.2.0.
